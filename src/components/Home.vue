@@ -53,7 +53,7 @@ export default {
   },
   methods: {
     getResult(){
-      axios.get('httpsgit://5c92dbfae7b1a00014078e61.mockapi.io/owners').then((response)=>{
+      axios.get('https://5c92dbfae7b1a00014078e61.mockapi.io/owners').then((response)=>{
         //get each result
         for(let person of response.data){
           //order by pet type for pet
