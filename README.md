@@ -1,6 +1,6 @@
 # wensihaihui
 
-> A Vue.js project
+> A Vue.js project for Wensihaihui code test
 
 ## Build Setup
 
