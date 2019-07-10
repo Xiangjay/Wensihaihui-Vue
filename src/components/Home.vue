@@ -1,7 +1,7 @@
 <template>
 <div>
   <header>
-    <img src="/static/images/image001.png" alt="">
+    <img src="static/images/image001.png" alt="">
   </header>
   <div class="result">
 
@@ -53,7 +53,7 @@ export default {
   },
   methods: {
     getResult(){
-      axios.get('https://5c92dbfae7b1a00014078e61.mockapi.io/owners').then((response)=>{
+      axios.get('httpsgit://5c92dbfae7b1a00014078e61.mockapi.io/owners').then((response)=>{
         //get each result
         for(let person of response.data){
           //order by pet type for pet
