@@ -1,7 +1,6 @@
 # wensihaihui
 
-> A Vue.js project for Wensihaihui code test
-> You can view directly at [https://xiangjay.github.io/Wensihaihui/dist/index.html](https://xiangjay.github.io/Wensihaihui/dist/index.html)
+> A Vue.js project for Wensihaihui code test, you can view directly at [https://xiangjay.github.io/Wensihaihui/dist/index.html](https://xiangjay.github.io/Wensihaihui/dist/index.html)
 
 ## Build Setup
 
